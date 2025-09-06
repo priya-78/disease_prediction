@@ -1,10 +1,21 @@
 # 🌱 Crop Disease Detection using Deep Learning
 
-## 📌 Project Overview
-This project detects **plant leaf diseases** using a Convolutional Neural Network (CNN).  
-It classifies images of leaves into their respective disease categories, helping farmers identify crop health early.
+
+### 📌 Major Project – Corizo Machine Learning Internship  
+👨‍💻 Group Project (3 Members)  
 
 ---
+
+## 📖 Project Overview  
+This project was developed as part of the **Corizo Machine Learning Internship (Aug–Sept 2025)**.  
+It focuses on detecting plant leaf diseases using **Deep Learning (CNNs)**. By classifying crop leaf images into disease categories, the system helps farmers identify plant health issues early and take preventive measures.  
+
+---
+
+## 👥 Team Members  
+- **Member 1:** Ranga Priya A  
+- **Member 2:** Nirjjalaa C R  
+- **Member 3:** Sarathi
 
 ## 📂 Dataset
 - **Source**: [PlantVillage Dataset (Kaggle)](https://www.kaggle.com/datasets/emmarex/plantdisease)  
