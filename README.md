@@ -8,8 +8,9 @@ It classifies images of leaves into their respective disease categories, helping
 
 ## 📂 Dataset
 - **Source**: [PlantVillage Dataset (Kaggle)](https://www.kaggle.com/datasets/emmarex/plantdisease)  
-- **Total Images**: ~15,000  
-- **Classes**: 16  
+- **Total Images used**: ~15,000
+- **Dataset used**: [training dataset](https://drive.google.com/drive/folders/1Sh6L9A7qOJRSfOpn0D8Zji5vfueutPP4?usp=drive_link)
+- **Classes used for training**: 16  
   - Apple (Scab, Black Rot, Healthy)  
   - Corn (Common Rust, Northern Leaf Blight, Healthy)  
   - Grape (Black Rot, Esca, Healthy)  
